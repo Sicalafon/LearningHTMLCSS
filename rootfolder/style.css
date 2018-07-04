@@ -1,24 +1,11 @@
-h1 {
-  font-family: arial, "Times New Roman";
-  font-size: 22px;
-  font-style: italic;
-  font-weight: 100;
-  text-align: left;
-  text-decoration: underline;
-  text-indent: 30px;
-  text-transform: lowercase;
-  color: #3D3FA6;
-  /*more colors https://color.adobe.com/  */
-  letter-spacing: 10px;
-  word-spacing: 10px;
-}
+/* @@font-face {
+  src: url(/fonts/specific_fonts);
+  font-family: nos;
+} */
 
-a {
-  text-decoration: none;
-}
-
-p {
-  font-size: 22px;
-  justify-content: flex-start;
-  line-height: 40px;
+.paragraph {
+  font-size: 50px;
+  line-height: 62px;
+  font-family: 'Raleway', sans-serif;
+  /* font-family: 'nos'; */
 }
