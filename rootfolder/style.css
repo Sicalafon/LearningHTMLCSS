@@ -103,10 +103,19 @@ input, select {
 
 /*MY CODE*/
 
-h2 {
+.index-h2 {
   color: red;
 }
 
-.title {
+
+#index-h2 {
   color: green;
+}
+
+p {
+  color: green;
+}
+
+.index-intro p {
+  color: red;
 }
